@@ -19,7 +19,7 @@ $(document).ready(function () {
         desc: "aku harap kamu notice aku:)"
     }, {
         title: "Maaf ya selama ini aku pendem",
-        desc: "aku masih malu soalnya, oh iya aku mau bilang kalo ambar tuh cantik secara kepribadian maupun penampilan, semangat teru ya kamu buat terus tumbuh dari lebih baik, semoga kamu dapat mencapai impian yang harapkan"
+        desc: "aku masih malu soalnya, oh iya aku mau bilang kalo ambar tuh cantik secara kepribadian maupun penampilan, semangat terus yaa kamu buat terus tumbuh dari lebih baik, semoga kamu dapat mencapai impian yang harapkan, I want to say I love you"
  }];
     var currentPage = 0;
     //generate content
